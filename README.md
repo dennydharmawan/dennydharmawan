@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 learning React, React-Native, Next.js, Gatsby.js, Nest.js, Tailwind, Bootstrap, PostCSS, Webpack, Parcel
-- 💜 loving GraphQL, Kafka, Express.js, Hapi
+- 🧠 able to use GraphQL, Kafka, Express.js, Hapi, Redis, MongoDB
 
 <!--
 **dennydharmawan/dennydharmawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
