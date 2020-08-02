@@ -3,16 +3,16 @@
 - 🌱 learning React, React-Native, Next.js, Gatsby.js, Nest.js, Tailwind, Bootstrap, PostCSS, Webpack, Parcel
 - 🧠 able to use GraphQL, Kafka, Express.js, Hapi, Redis, MongoDB
 
-Learning Path:
-useSelector and useDispatch
-chakra ui
-rxjs
-redux-observable
-typescript
-redux toolkit
-graphql client
+* Learning Path:
+* useSelector and useDispatch
+* chakra ui
+* rxjs
+* redux-observable
+* typescript
+* redux toolkit
+* graphql client
 
-tailwind?
+* tailwind?
 
 <!--
 **dennydharmawan/dennydharmawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
