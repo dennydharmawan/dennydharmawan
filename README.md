@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Practicing:
+next.js
+material ui
+react-query
+graphql-request
+graphql-codegen
+redux toolkit
+redux observable
+agGrid
+typescript
+
+and react in general
+
 <!--
 **dennydharmawan/dennydharmawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
