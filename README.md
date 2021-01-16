@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I love to code. currently practicing:
-React
-Node.js
-Typescript
+* React
+* Node.js
+* Typescript
 
 <!--
 **dennydharmawan/dennydharmawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
