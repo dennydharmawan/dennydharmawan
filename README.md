@@ -10,7 +10,7 @@
 
 <h3 align="left">I am a web developer who is in love with programming. I enjoy learning about new technologies and have passion for web development.</h3>
 
-<h3 align="left">🙌 Connect With Me 🙌</h3>
+<h3 align="left">📮 Connect With Me</h3>
 <p align="left" />
 <a href="https://denny.dharmawan.com">
   <img alt="website" src="https://img.shields.io/badge/portfolio-635BFF.svg?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
