@@ -13,13 +13,13 @@
 <h3 align="left">🙌 Connect With Me 🙌</h3>
 <p align="left" />
 <a href="https://denny.dharmawan.com">
-  <img alt="website" src="https://img.shields.io/badge/website-635BFF.svg?style=flat-square&logo=homeadvisor&logoColor=white"/>
+  <img alt="website" src="https://img.shields.io/badge/website-635BFF.svg?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
 </a>
 <a href="mailto:denny.dharmawan91@gmail.com">
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/denny-dharmawan-0592a375/">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
