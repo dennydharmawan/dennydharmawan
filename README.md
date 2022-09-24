@@ -13,10 +13,10 @@
 <h3 align="left">🙌 Connect With Me 🙌</h3>
 <p align="left" />
 <a href="https://denny.dharmawan.com">
-  <img alt="website" src="https://img.shields.io/badge/website-635BFF.svg?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
+  <img alt="website" src="https://img.shields.io/badge/portfolio-635BFF.svg?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
 </a>
 <a href="mailto:denny.dharmawan91@gmail.com">
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/denny-dharmawan-0592a375/">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white">
 </p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&myquote=A%20jack%20of%20all%20trades%20is%20a%20master%20of%20none%2C%20but%20oftentimes%20better%20than%20a%20master%20of%20one.&author=William%20Shakespeare" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&myquote=A%20jack%20of%20all%20trades%20is%20a%20master%20of%20none%2C%20but%20oftentimes%20better%20than%20a%20master%20of%20one.&author=William%20Shakespeare" />
 
 <!-- Add octocat gif -->
 <!-- https://www.imgonline.com.ua/eng/gif-animation.php -->
