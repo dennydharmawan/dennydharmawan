@@ -59,6 +59,7 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white">
 </p>
+<br />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&myquote=A%20jack%20of%20all%20trades%20is%20a%20master%20of%20none%2C%20but%20oftentimes%20better%20than%20a%20master%20of%20one.&author=William%20Shakespeare" />
 
