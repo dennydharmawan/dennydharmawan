@@ -60,6 +60,15 @@
     <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white">
 </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<!-- Add octocat gif -->
+<!-- https://www.imgonline.com.ua/eng/gif-animation.php -->
+<!-- https://myoctocat.com/build-your-octocat/ -->
+<!-- https://github.com/m0nica -->
+
+<!-- "jack of all trades master of none but oftentimes better than a master of one" -->
+
 <!--
 **dennydharmawan/dennydharmawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
