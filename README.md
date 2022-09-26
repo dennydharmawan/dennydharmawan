@@ -2,11 +2,11 @@
 
 <!-- <h1 align="center"><a href="https://dennydharmawan.com"><img width="80%" alt="I am Denny Dharmawan" src="./assets/gh-readme-header.png" /></a></h1> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://dennydharmawan.com"">
     <img alt="Denny Dharmawan | Web Developer" src="https://img.shields.io/badge/Denny%20Dharmawan-Web%20Developer-blue?style=for-the-badge&logo=visualstudiocode" />
   </a>
-</p>
+</p> -->
 
 <h3 align="left">I am a web developer who is in love with programming. I enjoy learning about new technologies and have passion for web development.</h3>
 
