@@ -23,7 +23,7 @@
 </a>
 </p>
 
-<h3 align="left">✨ Languages and Tools ✨</h3>
+<h3 align="left">✨ Languages, Databases, Libraries, and Tools ✨</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -67,21 +67,3 @@
 <!-- https://www.imgonline.com.ua/eng/gif-animation.php -->
 <!-- https://myoctocat.com/build-your-octocat/ -->
 <!-- https://github.com/m0nica -->
-
-<!-- "jack of all trades master of none but oftentimes better than a master of one" -->
-
-<!--
-**dennydharmawan/dennydharmawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React, React-Native, GraphQL, Next.js, Gatsby.js, Tailwind, Nest.js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ....
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🧠 knowing about : ...
--->
