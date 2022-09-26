@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://dennydharmawan.com"">
-    <img alt="Denny Dharmawan | Web Developer" src="https://img.shields.io/badge/I%20am-Denny%20Dharmawan-blue?style=for-the-badge&logo=visualstudiocode" />
+    <img alt="Denny Dharmawan | Web Developer" src="https://img.shields.io/badge/I%20am-Denny%20Dharmawan-blue" />
   </a>
 </p>
 
