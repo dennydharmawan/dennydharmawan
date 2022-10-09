@@ -12,10 +12,10 @@
 
 <h3 align="left">📮 Connect With Me</h3>
 <p align="left" />
-<a href="https://denny.dharmawan.com">
-  <img alt="website" src="https://img.shields.io/badge/portfolio-635BFF.svg?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
+<a href="https://dennydharmawan.com">
+  <img alt="portfolio" src="https://img.shields.io/badge/portfolio-fb8500.svg?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
 </a>
-<a href="mailto:denny.dharmawan91@gmail.com">
+<a href="mailto:hey@dennydharmawan.com">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/denny-dharmawan-0592a375/">
