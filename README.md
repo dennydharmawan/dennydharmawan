@@ -18,7 +18,7 @@
 <a href="mailto:hey@dennydharmawan.com">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/denny-dharmawan-0592a375/">
+<a href="https://www.linkedin.com/in/ddharmawan/">
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
