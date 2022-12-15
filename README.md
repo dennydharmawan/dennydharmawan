@@ -11,6 +11,7 @@
 <h3 align="left">I am a web developer who is in love with programming. I enjoy learning about new technologies and have passion for web development.</h3>
 
 <h3 align="left">📮 Connect With Me</h3>
+<br/>
 <p align="left" />
 <a href="https://dennydharmawan.com">
   <img alt="portfolio" src="https://img.shields.io/badge/portfolio-fb8500.svg?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
@@ -22,6 +23,7 @@
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+<br/>
 
 <h3 align="left">✨ Languages, Databases, Libraries, and Tools ✨</h3>
 <br/>
