@@ -16,7 +16,7 @@
 <a href="https://dennydharmawan.com">
   <img alt="portfolio" src="https://img.shields.io/badge/portfolio-fb8500.svg?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
 </a>
-<a href="mailto:hey@dennydharmawan.com">
+<a href="mailto:hi@dennydharmawan.com">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ddharmawan/">
