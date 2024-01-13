@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="left">I am a web developer who is in love with programming. I enjoy learning about new technologies and have passion for web development.</h3>
+<h3 align="left">Passionate web developer with a keen interest in creating efficient, scalable, and maintainable software. I love turning ideas into reality through code and building delightful user experiences. My toolbox includes a variety of technologies and frameworks to bring web applications to life.</h3>
 
 <h3 align="left">📮 Connect With Me</h3>
 <br/>
