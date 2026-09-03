@@ -1,72 +1,54 @@
-### Hi there 👋
-
-<!-- <h1 align="center"><a href="https://dennydharmawan.com"><img width="80%" alt="I am Denny Dharmawan" src="./assets/gh-readme-header.png" /></a></h1> -->
+<h1 align="center">
+  Hi 👋 I'm Denny Dharmawan!
+</h1>
 
 <p align="center">
-  <a href="https://dennydharmawan.com"">
-    <img alt="Denny Dharmawan | Web Developer" src="https://img.shields.io/badge/My%20name%20is-Denny%20Dharmawan-blue?style=for-the-badge" />
-  </a>
+  <img
+    src="./assets/denny-workspace-banner.png"
+    width="900"
+    alt="Denny Dharmawan — Senior Full-Stack Engineer workspace"
+  />
 </p>
 
-<p align="left">Seasoned web developer with a keen interest in creating efficient, scalable, and maintainable software. I love turning ideas into reality through code and building delightful user experiences. My toolbox includes a variety of technologies and frameworks to bring web applications to life.</p>
+I'm a `Senior Full-Stack Engineer` who builds reliable platforms for fintech and digital banking — from customer-facing services to the internal systems teams depend on every day.
 
-<h3 align="left">📮 Connect With Me</h3>
-<br/>
-<p align="left" />
-<a href="https://dennydharmawan.com">
-  <img alt="portfolio" src="https://img.shields.io/badge/portfolio-fb8500.svg?style=for-the-badge&logo=homeadvisor&logoColor=white"/>
-</a>
-<a href="mailto:hi@dennydharmawan.com">
-  <img alt="gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ddharmawan/">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+- Senior Full-Stack Engineer at `Krom Bank` (digital bank, Indonesia)
+- Previously Back End Engineer at `Bank SMBC Indonesia (Jenius)` on Flexi Cash lending
+- 8+ years shipping TypeScript / Node.js systems across lending, payments, IAM, and internal ops
+- Built Krom's identity & access governance platform end to end (`Next.js`, `RBAC`, audit, access review)
+- Published shared auth / logging / feature-flag npm packages adopted by multiple production apps
+- Authored Git workflow standards used by `5+` teams on a shared codebase
+- Mentors engineers, runs design & code review, and writes the docs that keep platforms extendable
+- DAAD scholarship alumnus — `KMUTNB` (Thailand) and `RWTH Aachen` (Germany)
+- B.S. Computer Science, `BINUS University`
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="" />
+
+<details open>
+<summary><b>💻 Technical Skills</b></summary>
+<br>
+
+| Category | Skills |
+|----------|--------|
+| Languages | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> |
+| Frontend | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white"/> |
+| Backend | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> |
+| Data & Messaging | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/> |
+| Platform | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/> |
+| Practices | <img src="https://img.shields.io/badge/RBAC%20%2F%20IAM-0A66C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge"/> |
+
+</details>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="" />
+
+<details open>
+<summary>🤝 <b>Connect with me</b></summary>
+
+<p align="center">
+  <a href="https://dennydharmawan.com"><img src="https://img.shields.io/badge/portfolio-fb8500.svg?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ddharmawan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@dennydharmawan.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/dennydharmawan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-<br/>
 
-<h3 align="left">✨ Languages, Databases, Libraries, and Tools ✨</h3>
-<br/>
-<p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-    <br />
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-    <br />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white">
-    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
-    <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white">
-    <img src="https://img.shields.io/badge/chai-A30701?style=flat-square&logo=chai&logoColor=white">
-    <br />
-    <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/New%20Relic-008C99?style=flat-square&logo=New%20Relic&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white">
-    <br />
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white">
-</p>
-<br />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&myquote=A%20jack%20of%20all%20trades%20is%20a%20master%20of%20none%2C%20but%20oftentimes%20better%20than%20a%20master%20of%20one.&author=William%20Shakespeare" />
-
-<!-- Add octocat gif -->
-<!-- https://www.imgonline.com.ua/eng/gif-animation.php -->
-<!-- https://myoctocat.com/build-your-octocat/ -->
-<!-- https://github.com/m0nica -->
+</details>
