@@ -4,9 +4,9 @@
 
 <p align="center">
   <img
-    src="./assets/denny-workspace-banner.png"
+    src="./assets/denny-github-hero.png"
     width="900"
-    alt="Denny Dharmawan — Senior Full-Stack Engineer workspace"
+    alt="Denny Dharmawan — Senior Full-Stack Engineer"
   />
 </p>
 
