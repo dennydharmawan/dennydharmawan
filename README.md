@@ -39,16 +39,8 @@ I'm a `Senior Full-Stack Engineer` who builds reliable platforms for fintech and
 
 </details>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="" />
+## 🌐 Connect with Me
 
-<details open>
-<summary>🤝 <b>Connect with me</b></summary>
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ddharmawan/)
 
-<p align="center">
-  <a href="https://dennydharmawan.com"><img src="https://img.shields.io/badge/portfolio-fb8500.svg?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ddharmawan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:contact@dennydharmawan.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/dennydharmawan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-</details>
+Feel free to reach out if you want to collaborate on a project or just have a tech chat.
