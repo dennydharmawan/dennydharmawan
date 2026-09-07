@@ -1,44 +1,28 @@
-<h1 align="center">
-  Hi 👋 I'm Denny Dharmawan!
-</h1>
+<h1 align="center">Denny Dharmawan</h1>
 
 <p align="center">
   <img
     src="./assets/denny-github-hero.png"
     width="900"
-    alt="Denny Dharmawan — Senior Full-Stack Engineer"
+    alt="Denny Dharmawan, senior full-stack engineer"
   />
 </p>
 
-I'm a `Senior Full-Stack Engineer` who builds reliable platforms for fintech and digital banking — from customer-facing services to the internal systems teams depend on every day.
+I am a senior full-stack engineer in Jakarta. Most of my work has been in fintech, digital banking, and internal platforms that other teams rely on to do their jobs.
 
-- Senior Full-Stack Engineer at `Krom Bank` (digital bank, Indonesia)
-- Previously Back End Engineer at `Bank SMBC Indonesia (Jenius)` on Flexi Cash lending
-- 8+ years shipping TypeScript / Node.js systems across lending, payments, IAM, and internal ops
-- Built Krom's identity & access governance platform end to end (`Next.js`, `RBAC`, audit, access review)
-- Published shared auth / logging / feature-flag npm packages adopted by multiple production apps
-- Authored Git workflow standards used by `5+` teams on a shared codebase
-- Mentors engineers, runs design & code review, and writes the docs that keep platforms extendable
-- DAAD scholarship alumnus — `KMUTNB` (Thailand) and `RWTH Aachen` (Germany)
+At `Krom Bank`, I built the identity and access platform from scratch. That work covers RBAC, audit logs, access review, and the operational workflows around them. Before that, I worked on lending systems at `Bank SMBC Indonesia (Jenius)`.
+
+I spend most of my time in `TypeScript`, `Next.js`, `Node.js`, `React`, `MongoDB`, `Redis`, `Kafka`, `AWS`, and `Datadog`.
+
+I like hard platform problems, clear systems, and code that other engineers can still work with six months later.
+
+## work
+
+- Senior Full-Stack Engineer at `Krom Bank`
+- Former Back End Engineer at `Bank SMBC Indonesia (Jenius)`
 - B.S. Computer Science, `BINUS University`
+- DAAD scholarship alumnus, `KMUTNB` and `RWTH Aachen`
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="" />
+## connect
 
-<details open>
-<summary><b>💻 Technical Skills</b></summary>
-<br>
-
-- Languages: TypeScript, JavaScript
-- Frontend: React, Next.js, Mantine
-- Backend: Node.js, Express.js, GraphQL
-- Data and messaging: MySQL, MongoDB, Redis, Apache Kafka
-- Platform: AWS, Kubernetes, Docker, Datadog
-- Practices: RBAC/IAM, CI/CD, system design
-
-</details>
-
-## 🌐 Connect with Me
-
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ddharmawan/)
-
-Feel free to reach out if you want to collaborate on a project or just have a tech chat.
+- LinkedIn: [ddharmawan](https://www.linkedin.com/in/ddharmawan/)
